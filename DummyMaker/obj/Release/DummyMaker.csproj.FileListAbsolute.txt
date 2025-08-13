@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\DummyMaker\DummyMaker\bin\Release\DummyMaker.exe.config
+C:\Users\user\source\repos\DummyMaker\DummyMaker\bin\Release\DummyMaker.exe
+C:\Users\user\source\repos\DummyMaker\DummyMaker\bin\Release\DummyMaker.pdb
+C:\Users\user\source\repos\DummyMaker\DummyMaker\obj\Release\DummyMaker.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DummyMaker\DummyMaker\obj\Release\DummyMaker.Form1.resources
+C:\Users\user\source\repos\DummyMaker\DummyMaker\obj\Release\DummyMaker.Properties.Resources.resources
+C:\Users\user\source\repos\DummyMaker\DummyMaker\obj\Release\DummyMaker.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DummyMaker\DummyMaker\obj\Release\DummyMaker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DummyMaker\DummyMaker\obj\Release\DummyMaker.exe
+C:\Users\user\source\repos\DummyMaker\DummyMaker\obj\Release\DummyMaker.pdb
